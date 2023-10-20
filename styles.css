@@ -1,0 +1,103 @@
+body {
+  background-image: url(https://images.unsplash.com/photo-1600093463592-8e36ae95ef56?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size: 1500px;
+  padding: 20px;
+}
+
+
+
+h1 {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-family: 'Yeseva One', serif;
+  color: #222614;
+}
+
+.established {
+  font-style: italic;
+}
+
+h1, h2, p {
+  text-align: center;
+}
+
+p{
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.menu {
+  width: 80%;
+  background-color: #D7BAA2;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+hr {
+  height: 2px;
+  background-color: #265B41;
+  border-color: #265B41;
+}
+
+.bottom-line {
+  margin-top: 25px;
+}
+
+h2 {
+  font-family: Impact, serif;
+  color: #222614;
+  font-family: 'Josefin Slab', serif;
+  font-size: 30px;
+}
+
+.item p {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 18px;
+  background-color: #D7BAA2;
+}
+
+.flavor, .dessert {
+  text-align: left;
+  width: 75%;
+}
+
+.price {
+  text-align: right;
+  width: 25%;
+}
+
+/* FOOTER */
+
+footer {
+  font-size: 14px;
+}
+
+.address {
+  margin-bottom: 5px;
+}
+
+a {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: brown;
+}
+
+a:active {
+  color: brown;
+}
